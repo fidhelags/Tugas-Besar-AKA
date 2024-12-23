@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1734509025 source:c:\users\fidhe\downloads\aka\aka.cpp
+	"AKA.h"
+	<iostream>
+	<chrono>
+
+1734509030 c:\users\fidhe\downloads\aka\aka.h
+	<iostream>
+
+1734509006 source:c:\users\fidhe\downloads\aka\main.cpp
+	"AKA.h"
+	<iostream>
+	<chrono>
+
+1734509025 source:c:\users\fidhe\downloads\program aka\aka_fidhela\aka.cpp
+	"AKA.h"
+	<iostream>
+	<chrono>
+
+1734884212 c:\users\fidhe\downloads\program aka\aka_fidhela\aka.h
+	<iostream>
+
+1734880793 source:c:\users\fidhe\downloads\program aka\aka_fidhela\main.cpp
+	"AKA.h"
+	<iostream>
+	<chrono>
+
+1734885586 source:c:\users\fidhe\downloads\program aka\aka_fidhela - copy\main.cpp
+	"AKA.h"
+	<iostream>
+	<chrono>
+
+1734884917 c:\users\fidhe\downloads\program aka\aka_fidhela - copy\aka.h
+	<iostream>
+
+1734885022 source:c:\users\fidhe\downloads\program aka\aka_fidhela - copy\aka.cpp
+	"AKA.h"
+	<iostream>
+	<chrono>
+
